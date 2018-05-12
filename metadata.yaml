@@ -1,0 +1,40 @@
+_repo: Old-Country-Inns-of-England_44382
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44382-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Maskell, Henry Parr
+    alias: Maskell, Henry P.
+    gutenberg_agent_id: '42721'
+    url: http://www.gutenberg.org/2009/agents/42721
+  - agent_name: Gregory, Edward W. (Edward William)
+    alias: Gregory, Edward William
+    birthdate: 1871
+    gutenberg_agent_id: '42722'
+    url: http://www.gutenberg.org/2009/agents/42722
+description: Illustrated by the authors.
+gutenberg_issued: '2013-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Taverns (Inns) -- England'
+- !lcsh 'England -- Social life and customs'
+- !lcsh 'Bars (Drinking establishments) -- England'
+- !lcsh 'Hotels -- England'
+- !lcc 'DA'
+tableOfContents: Manorial inns -- Monastic inns -- The hospices -- The rise of the
+  towns -- The craft guilds and traders' inns -- Church inns and church ales -- Coaching
+  inns -- Wayside inns and alehouses -- Historic signs and historic inns -- Sports
+  and pastimes -- The inns of literature and art -- Fanciful signs and curious signboards
+  -- Haunted inns -- Old inns and their architecture -- The commercial traveller --
+  The new inn and its possibilities -- Inn furniture -- The innkeeper -- Public house
+  reform.
+title: Old Country Inns of England
+url: http://www.gutenberg.org/ebooks/44382
