@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '42722'
     url: http://www.gutenberg.org/2009/agents/42722
 description: Illustrated by the authors.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44382#Old-Country-Inns-of-England
 gutenberg_issued: '2013-12-07'
 gutenberg_type: Text
 identifiers:
